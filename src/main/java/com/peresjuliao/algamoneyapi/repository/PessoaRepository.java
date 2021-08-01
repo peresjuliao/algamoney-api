@@ -6,4 +6,6 @@ import com.peresjuliao.algamoneyapi.model.Pessoa;
 
 public interface PessoaRepository extends JpaRepository<Pessoa, Long> {
 
+	
+
 }
